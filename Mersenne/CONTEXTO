@@ -1,0 +1,8 @@
+Este fue un proyecto personal que me propuse cuando ví este video: https://www.youtube.com/watch?v=EYQOE4Sg4HY
+En resúmen es un programa que al ejecutarlo calcula los primos de mersenne empezando por el segundo
+Primero calcula un número de mersenne y luego
+Usa el test de lucas lehmer "https://es.wikipedia.org/wiki/Test_de_Lucas-Lehmer"
+para confirmar si el número además de ser de mersenne es un primo
+mi propia compu da un error después de calcular el octavo primo de mersenne (2147483647)
+Traté de optimizarlo lo más que pude pero no llegué al noveno de ninguna forma
+Espero que le eche un ojo y vea como funciona, utilicé todo lo que vimos en clase y creo que quedó bien
